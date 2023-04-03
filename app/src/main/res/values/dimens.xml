@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="offset">5dp</dimen>
+    <dimen name="btn_max_height">30dp</dimen>
+    <dimen name="normal_text_size">16sp</dimen>
+    <dimen name="small_text_size">10sp</dimen>
+    <dimen name="max_image_size">500dp</dimen>
+    <dimen name="min_text_height">48dp</dimen>
+    <dimen name="small_offset">2dp</dimen>
+</resources>
